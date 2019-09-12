@@ -67,6 +67,8 @@ For Dropbox : https://www.dropbox.com/logincont=https%3A%2F%2Fwww.dropbox.com%2F
  
  - https://stackoverflow.com/questions/41285969/dropbox-api-v2-trying-to-upload-file-with-files-upload-throws-typeerror
  
+ - https://github.com/adafruit/Adafruit_IO_Python/blob/master/examples/basics/pi_camera.py
+ 
  ## CONCLUSION
 
 That's all we wrap up the things.we sucesfully installed the Adafruit.io and dropbox .
